@@ -2,7 +2,7 @@
 
 En demo på, hviordan vi kan bruge Quarkus til webudvikling. 
 
-Jeg har fulgt https://quarkus.io/guides/getting-started og https://mkyong.com/webservices/jax-rs/jax-rs-queryparam-example/ og udviklet en webbaseret regnemaskine. 
+Jeg har fulgt https://quarkus.io/guides/getting-started og https://mkyong.com/webservices/jax-rs/jax-rs-queryparam-example/ og udviklet en utrolig simpel webbaseret regnemaskine. 
 
 Endpoints: 
 
