@@ -9,5 +9,6 @@ Endpoints:
 - http://localhost:8080/hello
 - http://localhost:8080/calc?a=2&b=5
 
-# Sådan laver man desktop apps med Quarkus --> https://quarkus.io/blog/native-command-mode-tools/
+# Sådan laver man desktop apps med Quarkus 
+https://quarkus.io/blog/native-command-mode-tools/
 
